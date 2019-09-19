@@ -8,7 +8,7 @@ For the puropose of this tutorial I am using jruby 9
 
 The following is my github account, you can find the repo that I used for this tutorial here
 
-[My GitHub](https://github.com/chandrika54)url
+[My GitHub](https://github.com/chandrika54)
 
 Course Content
 
