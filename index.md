@@ -8,8 +8,8 @@ For the puropose of this tutorial I am using jruby 9
 
 The following is my github account, you can find the repo that I used for this tutorial here
 
-[https://github.com/chandrika54]
+[My GitHub](https://github.com/chandrika54)url
 
 Course Content
 
-Introduction [www.google.com]
+[Introduction](www.google.com)
