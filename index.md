@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## RoadToTestingAutomationUSingRuby
 
-You can use the [editor on GitHub](https://github.com/chandrika54/RoadToTestingAutomationUSingRuby/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Ruby is a versatile language it is used in variety of application from building websites, doing ETL, my idea with this page is to explain ruy in terms of testing automation
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Jruby
 
-### Markdown
+For the puropose of this tutorial I am using jruby 9
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The following is my github account, you can find the repo that I used for this tutorial here
 
-```markdown
-Syntax highlighted code block
+[https://github.com/chandrika54]
 
-# Header 1
-## Header 2
-### Header 3
+Course Content
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chandrika54/RoadToTestingAutomationUSingRuby/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Introduction [www.google.com]
