@@ -1,6 +1,6 @@
 ## RoadToTestingAutomationUsingRuby
 
-Ruby is a versatile language it is used in variety of application from building websites, doing ETL, my idea with this page is to explain ruy in terms of testing automation
+Ruby is a versatile language it is used in variety of applications from building websites, web applications, doing ETL, my idea with this page is to explain ruby in terms of testing automation
 
 ### Jruby
 
@@ -12,4 +12,4 @@ The following is my github account, you can find the repo that I used for this t
 
 Course Content
 
-[Introduction](www.google.com)
+[Introduction](https://google.com)
