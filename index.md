@@ -1,4 +1,4 @@
-## RoadToTestingAutomationUSingRuby
+## RoadToTestingAutomationUsingRuby
 
 Ruby is a versatile language it is used in variety of application from building websites, doing ETL, my idea with this page is to explain ruy in terms of testing automation
 
