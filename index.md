@@ -13,7 +13,11 @@ The following is my github account, you can find the repo that I used for this t
 Course Content
 
 [Introduction](https://google.com)
+
 [Variables]()
+
 [Loops]()
+
 [Operators]()
+
 [Conditionals]()
