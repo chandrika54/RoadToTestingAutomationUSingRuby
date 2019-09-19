@@ -10,7 +10,7 @@ The following is my github account, you can find the repo that I used for this t
 
 [My GitHub](https://github.com/chandrika54)
 
-##Course Content
+## Course Content
 
 [Introduction](https://google.com)
 
